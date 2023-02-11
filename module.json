@@ -1,7 +1,7 @@
 {
-  "id": "scout-foundry-bundle",
-  "title": "KDM Maps Scout Foundry Bundle",
-  "description": "A Collection of Supplementary Kingmaker Maps for Foundry VTT",
+  "id": "module",
+  "title": "New Module",
+  "description": "",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
@@ -12,18 +12,9 @@
   },
   "authors": [
     {
-      "name": "Kobold DM",
-      "discord": "Korvos#1609"
-    }
-  ],
-  "packs": [
-    {
-      "name": "adventure-1-kdm-scout-bundle",
-      "label": "KDM Scout Bundle (Shared)",
-      "path": "packs/adventure-1-kdm-scout-bundle.db",
-      "entity": "Adventure",
-      "type": "Adventure",
-      "package": "forge-vtt-shared-compendiums-kdm-maps-scout-bundle"
+      "name": "The League of Extraordinary FVTT Developers",
+      "url": "https://github.com/League-of-Foundry-Developers",
+      "discord": "discordID#0001"
     }
   ],
   "relationships": {
