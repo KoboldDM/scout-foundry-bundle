@@ -16,6 +16,16 @@
       "discord": "Korvos#1609"
     }
   ],
+  "packs": [
+    {
+      "name": "adventure-1-kdm-scout-bundle",
+      "label": "KDM Scout Bundle (Shared)",
+      "path": "packs/adventure-1-kdm-scout-bundle.db",
+      "entity": "Adventure",
+      "type": "Adventure",
+      "package": "forge-vtt-shared-compendiums-kdm-maps-scout-bundle"
+    }
+  ],
   "relationships": {
     "systems": [],
     "requires": []
