@@ -1,7 +1,7 @@
 {
   "id": "kdm-maps-scout-foundy-bundle",
   "title": "KDM Maps Scout Foundry Bundle",
-  "description": "",
+  "description": "A Collection of Supplementary Kingmaker Maps for Foundry VTT",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
